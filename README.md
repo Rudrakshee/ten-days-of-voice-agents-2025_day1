@@ -1,9 +1,9 @@
 # Ten Days of Voice Agents 2025
 
-## Day 1: Environment Setup & Basic Voice Agent
+## Day 1: AI Voice Agent Demo
 
 ### Demo Video
-Watch my Day 1 demo below:
+Check out my Day 1 demo below:
 
 <video width="600" controls>
   <source src="videos/day1-demo.mp4" type="video/mp4">
@@ -11,9 +11,9 @@ Watch my Day 1 demo below:
 </video>
 
 ### What this demo shows
-- Setting up the AI Voice Agent environment
-- Running the first agent (prints: "Voice agent environment is ready!")
+- The AI voice agent **listens to questions** and **answers them correctly using AI**  
+- Fully **interactive voice responses** in real time  
+- Demonstrates **Day 1 environment setup and functional agent**
 
-> Full backend/frontend integration with LiveKit + Murf Falcon will come in later days.  
-> For now, this demo is focused on Day 1 setup and testing.
-
+> Full backend/frontend integration with LiveKit + Murf Falcon will be added in later days.  
+> For now, this demo focuses on showcasing the AI voice agent answering questions accurately.
