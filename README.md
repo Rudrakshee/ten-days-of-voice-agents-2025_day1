@@ -10,21 +10,10 @@ Watch my Day 1 demo below:
   Your browser does not support the video tag.
 </video>
 
-### What’s included
-- **Backend:** `backend/agent.py`  
-  (prints: "Voice agent environment is ready!")  
+### What this demo shows
+- Setting up the AI Voice Agent environment
+- Running the first agent (prints: "Voice agent environment is ready!")
 
-- **Frontend:** `frontend/index.html`  
-  (placeholder HTML file)
+> Full backend/frontend integration with LiveKit + Murf Falcon will come in later days.  
+> For now, this demo is focused on Day 1 setup and testing.
 
-> Full LiveKit + Murf Falcon integration will come in later days.  
-> For Day 1, this demo shows the environment setup and basic agent running.
-
----
-
-## How to Run (Optional)
-If you want to test locally:
-
-```bash
-# Run the agent
-python backend/agent.py
